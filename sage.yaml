@@ -1,0 +1,13 @@
+name: "gt-test-plugin"
+version: "0.1.0"
+description: "test plugin"
+keywords: ""
+authors: "Giorgio Tran"
+collaborators: ""
+funding: ""
+license: ""
+homepage: ""
+source:
+  architectures:
+    - "linux/amd64"
+    - "linux/arm64"

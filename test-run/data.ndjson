@@ -1,0 +1,7 @@
+{"meta":{},"name":"color.mean.r","timestamp":"2024-01-16T14:20:14.867936000","value":36.55605661651234}
+{"meta":{},"name":"color.mean.g","timestamp":"2024-01-16T14:20:14.867936000","value":43.30514371141975}
+{"meta":{},"name":"color.mean.b","timestamp":"2024-01-16T14:20:14.867936000","value":81.04400270061728}
+{"meta":{},"name":"color.mean.r","timestamp":"2024-01-16T14:21:59.474658000","value":36.55605661651234}
+{"meta":{},"name":"color.mean.g","timestamp":"2024-01-16T14:21:59.474658000","value":43.30514371141975}
+{"meta":{},"name":"color.mean.b","timestamp":"2024-01-16T14:21:59.474658000","value":81.04400270061728}
+{"meta":{"filename":"snapshot.jpg"},"name":"upload","timestamp":"2024-01-16T14:21:59.474658000","value":"/Users/giorgio/repos/giorgio-test-plugin/gt-test-plugin/test-run/uploads/1705450919474658000-snapshot.jpg"}
